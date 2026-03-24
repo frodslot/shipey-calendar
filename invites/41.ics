@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shipey//Dumpster Booking//EN
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:shipey-recyGrPM0XHOYsasH-1774378390809@shipey.com
+DTSTAMP:20260324T185310Z
+DTSTART:20260324T160000Z
+DTEND:20260324T190000Z
+SUMMARY:Dumpster Drop Off (Shipey)
+LOCATION:3132 E Locust Ave\, Orange\, CA 92867\, USA\, Orange\, 92867
+DESCRIPTION:Your dumpster drop off is scheduled in the window below.\nPick up date: Tue\, Mar 31\, 2026 (pickup window: 12pm–6pm)\nCustomer: Emma Tolsdorf\\nEmail: emma.tolsdorf@gmail.com
+END:VEVENT
+END:VCALENDAR
